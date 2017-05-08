@@ -363,6 +363,7 @@ function addCircle(x,y,isLive){
 
     circleBody = Matter.Bodies.circle(x,y,rad)
     circleBody.renderShape = circle
+    circleBody.friction = 0
 
     backGroup.add(circle)
     World.add(engine.world,[circleBody])
