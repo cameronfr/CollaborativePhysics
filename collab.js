@@ -422,8 +422,8 @@ function manageDrawPaths(x,y,isLive,user,cursor,isStatic) {
         Matter.Body.setPosition(testBody,center)
         newShape.translation.set(center.x,center.y)
 
-        newShape.scale = 0.5
-        Matter.Body.scale(testBody,0.5,0.5)
+        newShape.scale = 0.9
+        Matter.Body.scale(testBody,0.9,0.9)
 
         testBody.friction = 0.5
         testBody.isStatic = isStatic
