@@ -2,7 +2,7 @@
 ## About
 A browser-based physics playground which is shared between two users, controlled by the Leap Motion (keyboard and mouse fallback is also supported). Users are connected peer2peer through WebRTC, with no intermediate server. The idea is that the ease of a browser app, the interactivity of the Leap Motion, and the social nature of a shared space combine to create an ideal environment for exploring physics. 
 
-Built at the [Tokyo 2017 Junction Hackathon](http://tokyo.hackjunction.com/) in April using [Collab.js](https://github.com/DenisVuyka/collab.js), 
+Built at the [Tokyo 2017 Junction Hackathon](http://tokyo.hackjunction.com/) in April using [LeapJS](https://github.com/leapmotion/leapjs), [Collab.js](https://github.com/DenisVuyka/collab.js), 
 [Matter.js](http://brm.io/matter-js/), and [Two.js](https://two.js.org/).
 
 
