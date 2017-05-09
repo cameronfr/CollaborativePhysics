@@ -8,17 +8,17 @@ Built at the [Tokyo 2017 Junction Hackathon](http://tokyo.hackjunction.com/) in 
 
 ## Examples
 
-![ball rolling down ramp](/media/ballramp.png)
-*ball rolling down ramp*
+![balls rolling down ramp](/media/ballramp.png)
+*balls rolling down ramp*
 
 ![lever tipping due to too much weight](/media/leverarm.png)
 *lever tipping due to too much weight*
 
 ![contraption](/media/contraption.png)
-*lever tipping due to too much weight*
+*fun contraption*
 
 
-Obviously with further utilization of the physics engine many more physics principles that could be explored!
+Obviously with further utilization of the physics engine many more physics principles could be explored!
 
 ## Modes
 Currently there are three modes. 
