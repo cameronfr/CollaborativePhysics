@@ -1,22 +1,26 @@
 # Collaborative Physics 
-##About
+## About
 A browser-based physics playground which is shared between two users, controlled by the Leap Motion (keyboard and mouse fallback is also supported). Users are connected peer2peer through WebRTC, with no intermediate server. The idea is that the ease of a browser app, the interactivity of the Leap Motion, and the social nature of a shared space combine to create an ideal environment for exploring physics. 
 
 Built at the [Tokyo 2017 Junction Hackathon](http://tokyo.hackjunction.com/) in April using [Collab.js](https://github.com/DenisVuyka/collab.js), 
 [Matter.js](http://brm.io/matter-js/), and [Two.js](https://two.js.org/).
 
 
-##Examples
+## Examples
 
 ![ball rolling down ramp](/media/ballramp.png)
+*ball rolling down ramp*
 
 ![lever tipping due to too much weight](/media/leverarm.png)
+*lever tipping due to too much weight*
 
 ![contraption](/media/contraption.png)
+*lever tipping due to too much weight*
+
 
 Obviously with further utilization of the physics engine many more physics principles that could be explored!
 
-##Modes
+## Modes
 Currently there are three modes. 
 - Mode 0 allows for the user to draw static polygons. The user draws the outline of a shape, and from this outline, the environment produces a polygon of similar shape. This polygon is static and is not affected by gravity. 
 - Mode 1 allows for the user to create dynamic circles. These circles are affected by gravity and friction and are especially useful in exploring situations such as a ball rolling down a ramp.  
