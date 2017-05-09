@@ -22,9 +22,9 @@ Obviously with further utilization of the physics engine many more physics princ
 
 ## Modes
 Currently there are three modes. 
-- Mode 0 allows for the user to draw static polygons. The user draws the outline of a shape, and from this outline, the environment produces a polygon of similar shape. This polygon is static and is not affected by gravity. 
-- Mode 1 allows for the user to create dynamic circles. These circles are affected by gravity and friction and are especially useful in exploring situations such as a ball rolling down a ramp.  
-- Mode 2 allows user users can create dynamic polygons. Similar to mode 0, the user draws each vertex, from which a polygon is 
+- Mode 0 allows the user to draw static polygons. The user draws the outline of a shape, and from this outline, the environment produces a polygon of similar shape. This polygon is static and is not affected by gravity. 
+- Mode 1 allows the user to create dynamic circles. These circles are affected by gravity and friction and are especially useful in exploring situations such as a ball rolling down a ramp.  
+- Mode 2 allows the user to create dynamic polygons. Similar to mode 0, the user draws each vertex, from which a polygon is 
 produced. These polygons are affected by gravity and friction. Such objects are useful in 
 explore the dynamics of blocks sliding down ramps and other scenarios. 
 
